@@ -19,4 +19,4 @@ This project, makes you boost actived in a free way on the ARAM map of League of
 
 ## More
 
-- Sorry for error, but it do not affect to aramboost
+- Sorry for error, but it do not effect to aramboost
