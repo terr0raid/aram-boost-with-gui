@@ -18,6 +18,6 @@ This project, makes you boost actived in a free way on the ARAM map of League of
 
 **Step 1** - You should download python to [here.](https://www.python.org/downloads/)
 
-**Step 2** - You open the cmd and '''pip install pyinstaller'''cmd
+**Step 2** - You open the cmd and ```pip install pyinstaller```
 
 
