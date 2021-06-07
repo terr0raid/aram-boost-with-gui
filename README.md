@@ -15,7 +15,3 @@ This project, makes you boost actived in a free way on the ARAM map of League of
 **Step 2** - Run **main.exe**,
 
 **Step 3** - Click **Aram Boost** button.
-
-## More
-
-- Sorry for error, but it do not effect to aramboost
