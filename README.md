@@ -4,7 +4,7 @@ This project, makes you boost actived in a free way on the ARAM map of League of
 
 
 <p align="center">
-  <img alt="" src="https://media.giphy.com/media/cTw1v55AUbMR2Zqp5x/giphy.gif" />
+  <img alt="" src="https://media1.giphy.com/media/cTw1v55AUbMR2Zqp5x/giphy.gif?cid=790b7611d500c86465e0f171b209b2b0ad1778f8d52f6ace&rid=giphy.gif&ct=g" />
 </p>
 
 
