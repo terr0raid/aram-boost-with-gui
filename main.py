@@ -62,7 +62,7 @@ class AramBoostGUI(QWidget):
     def initUI(self, title, x1, y1, x2, y2):
         self.setWindowTitle(title)
         self.setGeometry(x1, y1, x2, y2)
-        self.createButton("Aram Boost BGY OZEL", "Bas boostu amugagoyum", self.boostAram)
+        self.createButton("Aram Boost", "Bas boostu amugagoyum", self.boostAram)
 
 
 if __name__ == '__main__':
