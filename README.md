@@ -10,7 +10,7 @@ This project, makes you boost actived in a free way on the ARAM map of League of
 
 **Step 1** - I gave you a link in below to download this project version of exported as exe.
 
-**link**: [Click here.](shorturl.at/beBQ7)
+**link**: [Click here.]('shorturl.at/beBQ7')
 
 **Step 2** - Run **main.exe**,
 
